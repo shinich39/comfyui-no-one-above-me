@@ -4,4 +4,6 @@ Fix node to top.
 
 ## Usage  
 
-Add nodes \> utils \> No one above me
+Add nodes \> utils \> No one above me  
+
+Settings \> NoOneAboveMe \> Enable  
